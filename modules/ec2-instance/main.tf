@@ -17,6 +17,7 @@ network_interface {
   device_index=0
 }
 */
+/*
 root_block_device{
   volume_type=var.root_volume_type
   volume_size=var.root_volume_size
@@ -25,7 +26,7 @@ root_block_device{
   #kms_key_id=var.root_kms_key_id
 
   #iops =var.root_iops
-}
+}*/
 
 /*
 ebs_block_device{
