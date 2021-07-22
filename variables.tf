@@ -152,7 +152,7 @@ variable "ebs_volume_type" {
 
 }
 variable "ebs_volume_size" {
-  default = "40"
+  default = "30"
 
 
 
